@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![alt text](https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg?raw=true {width=1280px height=1280px})
+<a href="url"><img src="https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg" align="left" height="48" width="48" ></a>
+
 
 
 Welcome to my Github Profile. I am, Arindam Majee, UG1 student of Electronics and Tele-Communication Engineering Department, Jadavpur University, Kolkata, West 
