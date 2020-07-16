@@ -1,6 +1,6 @@
 ### Hi there 👋
-![alt text](https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg?raw=true {width=1280px height=1280px})
-<a href="url"><img src="https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg" align="left" height="48" width="48" ></a>
+
+<a href="url"><img src="https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg"  height="2400" width="1280" ></a>
 
 
 
