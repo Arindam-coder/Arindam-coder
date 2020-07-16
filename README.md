@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![alt text](https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg?raw=true)
+
+
 Welcome to my Github Profile. I am, Arindam Majee, UG1 student of Electronics and Tele-Communication Engineering Department, Jadavpur University, Kolkata, West 
 Bengal, India. I am also a JMNSTS Senior Research Scholar of the batch 2019. I am from a very small village of Purulia district named Fulirdih. From my childhood
 I have an attraction on Mathematics and Physics. After joing Jadavpur University for my graduation, I found myself interested also in Computer Science domain.
