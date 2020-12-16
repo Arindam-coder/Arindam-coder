@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Arindam-coder)
+
 ### Hi there 👋
 
 <a href="url"><img src="https://github.com/Arindam-coder/Arindam-coder/blob/master/background.jpg"  height="240" width="1280" ></a>
@@ -5,8 +7,11 @@
 
 
 Welcome to my Github Profile. I am, Arindam Majee, UG1 student of Electronics and Tele-Communication Engineering Department, Jadavpur University, Kolkata, West 
-Bengal, India. I am also a JBNSTS Senior Research Scholar of the batch 2019. I am from a very small village of Purulia district named Fulirdih. From my childhood
-I have an attraction on Mathematics and Physics. After joing Jadavpur University for my graduation, I found myself interested also in Computer Science domain. 
+Bengal, India. I am also a JBNSTS Senior Research Scholar of the batch 2019. I am from a very small village of Purulia district, West Bengal. From my childhood
+I have an attraction on Mathematics and Physics. After joing Jadavpur University for my graduation, I found myself interested also in Computer Science domain. I am enthusiast in Image Processing, Artificial Intelligence, Machine Learning & Pattern Recognization. 
+
+#### Here is my CV. Please look over it: https://github.com/Arindam-coder/Arindam-coder/blob/master/Resume.pdf
+#### Here is my Portfolio: https://arindam-coder.github.io
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Arindam-coder&show_icons=true&line_height=30)
