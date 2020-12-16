@@ -9,6 +9,9 @@ Bengal, India. I am also a JBNSTS Senior Research Scholar of the batch 2019. I a
 I have an attraction on Mathematics and Physics. After joing Jadavpur University for my graduation, I found myself interested also in Computer Science domain. 
 
 
+![](https://github-readme-stats.vercel.app/api?username=Arindam-coder&show_icons=true&line_height=30)
+
+
 - 🔭 I’m currently working on Artificial Inteligence, Machine Learning & Image Processing.
 - 🌱 I’m currently learning Matlab, IoT, C++.
 - 👯 I’m looking to collaborate on Image Processing, Deep Learning and Pattern Recognization.
