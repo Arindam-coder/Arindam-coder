@@ -15,7 +15,7 @@ I have an attraction on Mathematics and Physics. After joing Jadavpur University
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Arindam-coder&show_icons=true&line_height=30)
-
+[![Arindam's github stats](https://github-readme-stats.vercel.app/api?username=Arindam-coder)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Artificial Inteligence, Machine Learning & Image Processing.
 - 🌱 I’m currently learning Matlab, IoT, C++.
